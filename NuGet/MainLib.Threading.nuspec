@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<metadata>
+  <id>MainLib.Threading</id>
+  <version>1.0</version>
+  <authors>Ali.dniry</authors>
+  <owners>Ali.dniry</owners>
+  <licenseUrl>http://slpdatepicker.codeplex.com/license</licenseUrl>
+  <projectUrl>http://slpdatepicker.codeplex.com/</projectUrl>
+  <iconUrl>https://slpdatepicker.svn.codeplex.com/svn/SilverlightPersianDatePicker/Views/Images/date.png</iconUrl>
+  <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  <description>.Net </description>
+  <tags>.Net</tags>
+</metadata>
+<files>
+  <file src="..\MainLib.Threading\Bin\Release\*.dll" target="lib" />
+  <file src="..\MainLib.Threading\Bin\Release\*.pdb" target="lib" />
+ <file src="..\MainLib.Threading\Bin\Release\*.xml" target="lib" />
+</files>
+</package>
